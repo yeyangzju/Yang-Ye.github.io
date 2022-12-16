@@ -5,11 +5,11 @@
 environment: production
 
 # Name of your site (displayed in the header)
-name: Nishant Vats
+name: Yang Ye
 
 
 # Short bio or description (displayed in the header)
-description: Ph.D. Candidate in Finance at Chicago Booth
+description: Undergraduate in Finance at Zhejiang University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: 
@@ -20,7 +20,7 @@ description: Ph.D. Candidate in Finance at Chicago Booth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: nvats@chicagobooth.edu
+  email: 3190103549@zju.edu.cn
   facebook:
   flickr:
   github:
