@@ -9,7 +9,7 @@ name: Yang Ye
 
 
 # Short bio or description (displayed in the header)
-description: Undergraduate in Finance at Zhejiang University
+description: Doctoral student in SAIF, Shanghai Jiao Tong University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: 
@@ -20,7 +20,7 @@ description: Undergraduate in Finance at Zhejiang University
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 3190103549@zju.edu.cn
+  email: yye.23@saif.sjtu.edu.cn
   facebook:
   flickr:
   github:
@@ -43,7 +43,7 @@ google_analytics: UA-238429524-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://nishvats.github.io/
+url: https://yeyangzju.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
